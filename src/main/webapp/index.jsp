@@ -137,9 +137,11 @@
         .icon-btn {
             background: transparent;
             border: 0;
+            color: var(--primary);
             cursor: pointer;
             color: var(--primary);
             font-size: 16px;
+            color: var(--primary);
         }
 
         .header-actions {
